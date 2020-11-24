@@ -1,0 +1,19 @@
+{
+  "name": "app-bump-version",
+  "version": "1.0.0",
+  "description": "Testing automated bump of app version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinker1987/node-app-bump-version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinker1987/node-app-bump-version/issues"
+  },
+  "homepage": "https://github.com/tinker1987/node-app-bump-version#readme"
+}
